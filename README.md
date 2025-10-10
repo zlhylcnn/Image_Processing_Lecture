@@ -1,1 +1,1 @@
-# Image_Processing_Lecture
+Görüntü işleme python ile.
